@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">15.01 Fragment User</string>
+    <string name="m1501_t001">第一個Fragment片段</string>
+    <string name="m1501_t002">第二個Fragment片段</string>
+    <string name="m1501_b001">取代第二個片段</string>
+    <string name="m1501_b002">刪除第二個片段</string>
+    <string name="action_setting">結束</string>
+</resources>

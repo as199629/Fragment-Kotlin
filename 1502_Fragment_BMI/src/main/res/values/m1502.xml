@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="advice_light">你太瘦了,該多吃點</string>
+    <string name="advice_average">正常,體型很棒喔</string>
+    <string name="advice_heavy">哇!你該節食了</string>
+    <string name="yourbmi">你的BMI值:</string>
+    <string name="whnull">*體重及身高必須輸入*</string>
+    <string name="zero">0</string>
+    <string name="kg">體重(kg):</string>
+    <string name="cm">身高(cm):</string>
+    <string name="hint">輸入</string>
+    <string name="m1502_b001">計算BMI值</string>
+    <string name="lblOutput">顯示BMI值</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':1502_Fragment_BMI'
+include ':1501_Fragment_User'
+rootProject.name = "CH15k-Fragment"
